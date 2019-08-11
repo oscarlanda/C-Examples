@@ -1,5 +1,5 @@
 /*----------------------------------------------------------------------
-    figures.c
+    sumasec.c
     11-08-2019
     Descripción:
         Programa que suma una secuencia de numeros, el primer numero
