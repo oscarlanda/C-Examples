@@ -1,3 +1,15 @@
+/*----------------------------------------------------------------------
+    rolasFavoritas.c
+    21-08-2019
+    Descripción:
+        Programa que pide tres canciones de tu preferencia, el artista,
+		y el año de la cancion, los ordena en base al año en forma ascendente
+		utilizando el algoritmo de ordenamiento de la burbuja.
+        Oscar Barrios Landa
+    email:
+        barrioslandaoscar@gmail.com
+-----------------------------------------------------------------------*/
+
 #include <stdio.h>
 #include <string.h>
 
